@@ -27,4 +27,5 @@ BEGIN
     END FUNCTION
 
     CALL MorningSyncMeeting()
+    Added definition for 'patch' in README
 END
